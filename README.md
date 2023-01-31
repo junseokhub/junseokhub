@@ -1,9 +1,3 @@
-<div algin="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=ffffff&width=1000&lines=Good+programmers+write+code+that+humans+can+understand)](https://git.io/typing-svg)
-
-</div>
-</br>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3ojunseok&show_icons=true&theme=dark)
