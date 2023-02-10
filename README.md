@@ -15,6 +15,7 @@
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
       
   </br>
+  </br>
     <p style="font-weight: bold">BackEnd Framwork</p>
       <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=NestJS&logoColor=white"/>
       <!-- <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> -->
@@ -23,11 +24,13 @@
       <!-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Python&logoColor=white"/> -->
 
   </br>
+  </br>
     <p style="font-weight: bold">FrontEnd Framwork</p>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 
+  </br>
   </br>
     <p style="font-weight: bold">DataBase</p>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
@@ -36,6 +39,7 @@
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 
   </br>
+  </br>
     <p style="font-weight: bold">Infra</p>
       <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -43,6 +47,7 @@
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
 
 
+  </br>
   </br>
     <p style="font-weight: bold">Collaboration Tools</p>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -53,12 +58,14 @@
       <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
   </br>
+  </br>
     <p style="font-weight: bold">OS</p>
       <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=macOS&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
 
+  </br>
   </br>
     <p style="font-weight: bold">IDE</p>
       <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
