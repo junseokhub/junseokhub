@@ -1,7 +1,7 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o3ojunseok&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o3ojunseok&layout=compact&theme=dark)](https://github.com/o3ojunseok/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseoko3o&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseoko3o&layout=compact&theme=dark)](https://github.com/junseoko3o/github-readme-stats)
 
 </div>
 </br>
@@ -80,6 +80,6 @@
 </br>
 <div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fo3ojunseok%2Fhit-counter&count_bg=%230B0B0A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseoko3o%2Fhit-counter&count_bg=%230B0B0A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
