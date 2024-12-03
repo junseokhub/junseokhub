@@ -26,7 +26,7 @@
 
   </br>
   </br>
-    <p style="font-weight: bold">FrontEnd Framwork</p>
+    <p style="font-weight: bold">FrontEnd Framwork (Soft)</p>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
