@@ -74,12 +74,3 @@
       <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
       <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/>
 </div>
-
-</br>
-</br>
-</br>
-<div align="center">
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunseoko3o%2Fhit-counter&count_bg=%230B0B0A&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
