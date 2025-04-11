@@ -10,8 +10,9 @@
   </br>
     <p style="font-weight: bold">Language</p>
       <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<!--       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> -->
+      <img src="https://img.shields.io/badge/-c++-00599C?style=flat&logo=cplusplus&logoColor=white&style=for-the-badge"/>
+<!--       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> -->
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
       
@@ -24,12 +25,11 @@
       <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
       <!-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Python&logoColor=white"/> -->
 
-  </br>
-  </br>
-    <p style="font-weight: bold">FrontEnd Framwork (Soft)</p>
+<!--   </br>
+    <p style="font-weight: bold">FrontEnd Framwork </p>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> -->
 
   </br>
   </br>
