@@ -43,7 +43,7 @@
   </br>
   </br>
     <p style="font-weight: bold">Infra</p>
-      <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
@@ -54,7 +54,7 @@
     <p style="font-weight: bold">Collaboration Tools</p>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Jira Software-0052CC?style=flat&logo=Jira Software&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Jira Software-0052CC?style=flat&logo=JiraSoftware&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
