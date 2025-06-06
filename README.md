@@ -19,10 +19,11 @@
   </br>
   </br>
     <p style="font-weight: bold">BackEnd Framwork</p>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat&logo=NestJS&logoColor=white"/>
       <!-- <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> -->
       <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
       <!-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Python&logoColor=white"/> -->
 
 <!--   </br>
@@ -69,8 +70,8 @@
   </br>
   </br>
     <p style="font-weight: bold">IDE</p>
-      <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
       <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/>
 </div>
