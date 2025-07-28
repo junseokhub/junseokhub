@@ -1,7 +1,7 @@
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseoko3o&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseoko3o&layout=compact&theme=dark)](https://github.com/junseoko3o/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseokhub&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junseokhub&layout=compact&theme=dark)](https://github.com/junseokhub/github-readme-stats)
 
 </div>
 </br>
