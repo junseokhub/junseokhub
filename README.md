@@ -5,7 +5,7 @@
 
 </div>
 </br>
-<div align="center">
+<!-- <div align="center">
   <h2>📚 STACKS 📚</h2>
   </br>
     <p style="font-weight: bold">Language</p>
@@ -74,4 +74,4 @@
       <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
       <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=white"/>
-</div>
+</div> -->
